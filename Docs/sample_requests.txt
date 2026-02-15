@@ -1,0 +1,4 @@
+GET /api/users
+POST /api/login
+PUT /api/users/1001
+DELETE /api/users/1001
